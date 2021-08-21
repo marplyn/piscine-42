@@ -1,0 +1,6 @@
+Credentials cache: API:16585
+        Principal: dground@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug  2 15:35:32 2021  Aug  3 01:35:32 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
+Aug  2 15:35:35 2021  Aug  3 01:35:32 2021  HTTP/student-storage.msk.21-school.ru@MSK.21-SCHOOL.RU
