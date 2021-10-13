@@ -1,5 +1,5 @@
 # about
-this repository contains completed 42 (school 21 in russia) C Piscine projects current for august'21
+this repository contains completed [42](https://42.fr/en/homepage/) C Piscine projects current for august'21
 
 # results (moulinette evaluation 🤖)
 ## bsq
