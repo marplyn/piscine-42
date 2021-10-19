@@ -1,6 +1,9 @@
 ## about
 this repository contains completed [42](https://42.fr/en/homepage/) C Piscine projects current for august'21
 
+## subjects
+[eng pdfs](/subjects)
+
 ## results (moulinette evaluation 🤖)
 ### bsq
 ```trace
